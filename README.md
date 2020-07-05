@@ -54,7 +54,7 @@ For Swift 3, See branch [Swift3](https://github.com/LeoMobileDeveloper/PullToRef
 
 ## Support
 
-UITableView/UICollectionView/UIScrollView/UIWebView
+UITableView/UICollectionView/UIScrollView
 
 - [x] Pull to refresh.
 - [x] Pull/Tap to load more.

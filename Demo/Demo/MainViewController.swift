@@ -22,8 +22,7 @@ class MainViewController: UITableViewController {
                                     rowsTargetControlerNames:["DefaultTableViewController",
                                                               "DefaultCollectionViewController",
                                                               "DefaultScrollViewController",
-                                                              "DefaultBannerController",
-                                                              "DefaultWebViewController"])
+                                                              "DefaultBannerController"])
         let section1 = SectionModel(rowsCount: 1,
                                     sectionTitle:"Build In",
                                     rowsTitles: ["Elastic",],
